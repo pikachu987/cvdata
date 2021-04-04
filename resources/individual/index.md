@@ -13,3 +13,7 @@
 [punto](./punto)
 
 [script](./script)
+
+[videoeditor](./videoeditor)
+
+[qrcode](./qrcode)
